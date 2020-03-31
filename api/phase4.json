@@ -1,0 +1,38 @@
+[
+  {
+    "id": 24,
+    "title": "Black Widow",
+    "dateReleased": "TBA",
+    "phase": 4
+  },
+  {
+    "id": 25,
+    "title": "The Eternals",
+    "dateReleased": "November 2020",
+    "phase": 4
+  },
+  {
+    "id": 26,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "dateReleased": "February 2021",
+    "phase": 4
+  },
+  {
+    "id": 27,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "dateReleased": "May 2021",
+    "phase": 4
+  },
+  {
+    "id": 28,
+    "title": "Spider-Man: Untitled Far From Home Sequel",
+    "dateReleased": "July 2021",
+    "phase": 4
+  },
+  {
+    "id": 29,
+    "title": "Thor: Love and Thunder",
+    "dateReleased": "November 2021",
+    "phase": 4
+  }
+]

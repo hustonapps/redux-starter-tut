@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Tony Stark",
+    "heroNames": ["Iron Man"]
+  },
+  {
+    "id": 2,
+    "name": "James 'Rhodey' Rhodes",
+    "heroNames": ["War Machine", "Iron Patriot"]
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "heroNames": ["Thor"]
+  },
+  {
+    "id": 4,
+    "name": "Steve Rogers",
+    "heroNames": ["Captain America"],
+  },
+  {
+    "id": 5,
+    "name": "Bruce Banner",
+    "heroNames": ["The Incredible Hulk", "Hulk"]
+  },
+  {
+    "id": 6,
+    "name": "Sam Wilson",
+    "heroNames": ["Falcon"]
+  }
+]
